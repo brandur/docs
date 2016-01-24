@@ -1,6 +1,9 @@
-A small curated collection of articles that I like.
+# docs
 
-# Sections
+A small curated collection of articles that I like and some of their more
+memorable quotes.
+
+## Sections
 
 * [Business](business.md)
 * [Cryptocurrency](cryptocurrency.md)
