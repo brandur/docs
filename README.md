@@ -9,6 +9,6 @@ memorable quotes.
 * [Cryptocurrency](cryptocurrency.md)
 * [Engineering](engineering.md)
 * [History](history.md)
-* [Local Issues](local-issues.md)
 * [Photography](photography.md)
+* [Politics](politics.md)
 * [Urban Design](urban-design.md)
